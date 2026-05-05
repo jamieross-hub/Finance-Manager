@@ -6,7 +6,7 @@ Finance Manager is a secure, full-stack financial dashboard designed for student
 
 ## 🎯 The "Why"
 Managing multiple income streams, tracking expenses across categories, and generating financial reports shouldn't require complex spreadsheets or expensive software. **Finance Manager** provides a unified platform with real-time visualizations, automated data processing, and flexible reporting—all secured with production-ready API protection.
-
+ 
 ---
 
 ## 🛠 Tech Stack
